@@ -1,4 +1,4 @@
-package exercise1.level3;
+package week1.exercise1.level3;
 
 public class Student {
 

@@ -1,4 +1,4 @@
-package exercise1.level1;
+package week1.exercise1.level1;
 
 public class Car {
 
